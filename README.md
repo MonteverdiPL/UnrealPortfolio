@@ -20,7 +20,7 @@ Some projects come with documentation that describes my approach to design and p
 
 ## How to Use This Repository
 
-If you're interested in my work or would like to collaborate, feel free to explore my projects. You can also contact me through linkedin.com/in/robert-fabisiak-813ba815a to discuss potential collaborations or learn more about my skills.
+f you're interested in my work or would like to collaborate, feel free to explore my projects. You can also contact me through LinkedIn to discuss potential collaborations or learn more about my skills.
 
 ## Contact
 
