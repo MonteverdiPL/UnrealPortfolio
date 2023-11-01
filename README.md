@@ -20,13 +20,13 @@ Some projects come with documentation that describes my approach to design and p
 
 ## How to Use This Repository
 
-f you're interested in my work or would like to collaborate, feel free to explore my projects. You can also contact me through LinkedIn to discuss potential collaborations or learn more about my skills.
+f you're interested in my work or would like to collaborate, feel free to explore my projects. You can also contact me through [LinkedIn(https://www.linkedin.com/in/robert-fabisiak-813ba815a) to discuss potential collaborations or learn more about my skills.
 
 ## Contact
 
 For any questions or collaboration inquiries, please reach out through:
 
-- LinkedIn: linkedin.com/in/robert-fabisiak-813ba815a
+- LinkedIn: [LiNK(https://www.linkedin.com/in/robert-fabisiak-813ba815a)
 - Twitter: (Soon)
 
 Thank you for visiting my repository, and I invite you to explore my projects. I hope you find inspiration and examples of my Unreal Engine skills here.
