@@ -1,6 +1,6 @@
 # Unreal Engine Skills Showcase
 
-Welcome to my Unreal Engine Skills Showcase repository! I have been professionally working in the gaming industry for 5 years. I started as a tester, and now, if I were to describe my position with one term, I'd call myself a Technical Designer. Although I have experience as a developer and project manager as well.
+Welcome to my Unreal Engine Skills Showcase repository! I have been professionally working in the gaming industry for 5 years. I started as a tester, and now, if I were to describe my position with one term, I'd call myself a Technical Designer. Although I have experience as a Developer and Project Manager as well.
 
 This portfolio exists because in a professional setting, you can't always do things exactly the way you want to. It's a place where I can do things my way and for the sheer enjoyment of it. Explore the various projects and examples that illustrate my experience and abilities.
 
