@@ -26,7 +26,7 @@ f you're interested in my work or would like to collaborate, feel free to explor
 
 For any questions or collaboration inquiries, please reach out through:
 
-- LinkedIn: [LiNK](https://www.linkedin.com/in/robert-fabisiak-813ba815a)
+- [LinkedIn](https://www.linkedin.com/in/robert-fabisiak-813ba815a)
 - Twitter: (Soon)
 
 Thank you for visiting my repository, and I invite you to explore my projects. I hope you find inspiration and examples of my Unreal Engine skills here.
